@@ -3,20 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Web Page</title>
+    <title>Home Page</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <h1>Welcome to My Web Page</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+            </ul>
+        </nav>
     </header>
     <main>
-        <p>This is a simple HTML template to get started.</p>
+        <h1>Welcome to My Website</h1>
+        <p>This is the homepage.</p>
     </main>
     <footer>
         <p>&copy; 2025 My Website</p>
     </footer>
-    <script src="script.js"></script>
 </body>
 </html>
- 
